@@ -1,0 +1,8 @@
+C:\Users\prdb\Documents\Shubenok\DNA Shubenok\bin\Debug\DNA Shubenok.exe.config
+C:\Users\prdb\Documents\Shubenok\DNA Shubenok\bin\Debug\DNA Shubenok.exe
+C:\Users\prdb\Documents\Shubenok\DNA Shubenok\bin\Debug\DNA Shubenok.pdb
+C:\Users\prdb\Documents\Shubenok\DNA Shubenok\obj\Debug\DNA Shubenok.csproj.AssemblyReference.cache
+C:\Users\prdb\Documents\Shubenok\DNA Shubenok\obj\Debug\DNA Shubenok.csproj.SuggestedBindingRedirects.cache
+C:\Users\prdb\Documents\Shubenok\DNA Shubenok\obj\Debug\DNA Shubenok.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Documents\Shubenok\DNA Shubenok\obj\Debug\DNA Shubenok.exe
+C:\Users\prdb\Documents\Shubenok\DNA Shubenok\obj\Debug\DNA Shubenok.pdb
